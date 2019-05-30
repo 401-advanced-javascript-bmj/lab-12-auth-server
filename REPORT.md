@@ -37,7 +37,7 @@ The documention is well written and contains examples. Links on the side bar cou
 
 _Above and beyond 'node' and 'linux', what dependencies or core requirements exist for this framework? Can it play at AWS/Heroku? Does it require a certain database?_
 
-It is currently setup to work with Mongo but it can work with any other DB. There's no reason to believe that we can't deploy this app on another provider.
+It is currently setup to work with Mongo but it can work with any other DB. It's currently deployed on Heroku, there's no reason to believe that we can't deploy this app on another provider.
 
 #### Ramp-Up Projections
 
