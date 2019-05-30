@@ -39,7 +39,7 @@ users.statics.createFromOauth = function(email) {
   return this.findOne( {email} )
     .then(user => {
       if( !user ) { throw new Error('User Not Found'); }
-      console.log('Welcome Back', user.username);
+      // console.log('Welcome Back', user.username);
       return user;
     })
     .catch( error => {
