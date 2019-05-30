@@ -37,4 +37,4 @@ Endpoints:
 * `/oauth` - oauth wordpress login  
   
 #### UML  
-![uml]()
+![uml](https://github.com/401-advanced-javascript-bmj/lab-12-auth-server/blob/readme/assets/uml.jpeg)
