@@ -68,10 +68,8 @@ WordPress is the most popular CMS, but having a WordPress.com account is not as 
 
 ### Operating Instructions
 
-If someone were to download your repo (above), what steps do they need to take to run the application
+_If someone were to download your repo (above), what steps do they need to take to run the application_
 
-- `npm start`
-- Endpoint: `/foo/bar/`
-  - Returns a JSON object with abc in it.
-- Endpoint: `/bing/zing/`
-  - Returns a JSON object with xyz in it.
+- .env (see readme for specific variables and definitions)
+- Start MongoDB
+- `npm install && npm start` on both the front-end and the back-end repos
