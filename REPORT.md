@@ -70,6 +70,7 @@ WordPress is the most popular CMS, but having a WordPress.com account is not as 
 
 _If someone were to download your repo (above), what steps do they need to take to run the application_
 
-- .env (see readme for specific variables and definitions)
+- Create a new app on https://developer.wordpress.com/ (a WordPress is required)
+- Configure .env (see readme for specific variables and definitions)
 - Start MongoDB
 - `npm install && npm start` on both the front-end and the back-end repos
