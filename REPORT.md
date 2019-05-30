@@ -31,7 +31,7 @@ _Describe the stack (front-end only? full stack?), database, efficiency, etc. De
 
 #### Documentation
 
-The documention is well written. Links on the side bar could be better grouped for the User section.
+The documention is well written and contains examples. Links on the side bar could be better grouped for the User section. API documentation is not interactive (like Swagger).
 
 #### Systems Requirements
 
